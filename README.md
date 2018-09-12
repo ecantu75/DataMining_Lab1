@@ -10,7 +10,7 @@ Dataset:
  Korey MacVittie  
  Josephine McDaniel  
  Afreen Siddiqui  
- Eduardo Cantu  
+ Eduardo Cantu   
 
 ## Sections:    
 
